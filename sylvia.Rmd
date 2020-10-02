@@ -7,6 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-* rock climbing
-* cat
-* Taiwanese
+* Rock climbing
+* Cat
+* Sleep 18 hrs
