@@ -9,6 +9,6 @@ navbar:
 output:
   html_document:
     theme: journal
-    highlight: textmate
+    highlight: tango
     toc: true 
     toc_float: true 
