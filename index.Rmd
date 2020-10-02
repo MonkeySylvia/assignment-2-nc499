@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Assignment 2
-Sylvia Chang 
-Brian Dillard
-![fish](https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697)
+Sylvia Chang  https://github.com/MonkeySylvia
+
+Brian Dillard https://github.com/briandill2
+![Fish](https://static.toiimg.com/photo/msid-67586673/67586673.jpg)
+
