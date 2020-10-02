@@ -5,3 +5,10 @@ navbar:
       href: index.html
     - text: "Sylvia"
       href: sylvia.html
+      
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    toc: true 
+    toc_float: true 
