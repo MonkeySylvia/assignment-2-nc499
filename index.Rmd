@@ -1,5 +1,5 @@
 ---
-title: "website"
+title: "Website"
 author: "Monkey"
 date: "10/1/2020"
 output: html_document
@@ -14,4 +14,5 @@ Sylvia Chang  https://github.com/MonkeySylvia
 
 Brian Dillard https://github.com/briandill2
 ![Fish](https://static.toiimg.com/photo/msid-67586673/67586673.jpg)
+![Alt text](/Users/Monkey/Downloads/fish.png)  
 
