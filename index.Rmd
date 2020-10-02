@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 Sylvia Chang  https://github.com/MonkeySylvia
 
 Brian Dillard https://github.com/briandill2
-![Fish](https://static.toiimg.com/photo/msid-67586673/67586673.jpg)
-![Alt text](/Users/Monkey/Downloads/fish.png)  
+
+![Real fish](fish.png)  
 
